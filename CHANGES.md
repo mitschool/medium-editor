@@ -1,3 +1,9 @@
+5.8.0 / 2015-09-13
+==================
+* Added relativeContainer options for the toolbar
+* Fix issue with auto-linking across consecutive list-items
+
+
 5.7.0 / 2015-08-21
 ==================
 * Fix backwards compatability issue with how keyboard commands extension handles 'alt'
